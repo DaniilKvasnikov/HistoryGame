@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Work.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScriptGame3.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ScriptLvl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptsScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptGame3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

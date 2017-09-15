@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 489851e619fb86c48b2d591d8fc198f4
+timeCreated: 1500393180
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZapfChanceryCTT
+  fontNames:
+  - ZapfChanceryCTT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
