@@ -13,9 +13,16 @@ public class ScriptsScene : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
+        if (winProcObj != null)
+            winProcObj.GetComponent<Image>().enabled = false;
         if (good[ScriptsScene.loadNumGame - 1] == null) good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
         if (winProcObj != null)//если не создан
             winProcObj.GetComponent<Image>().sprite = winProc[good[ScriptsScene.loadNumGame - 1]];
+        Debug.Log((good[ScriptsScene.loadNumGame - 1]));
+        if ((good[ScriptsScene.loadNumGame - 1]) == 10)
+        {
+            visibleOn();
+        }
     }
 	
 	// Update is called once per frame
@@ -91,5 +98,11 @@ public class ScriptsScene : MonoBehaviour {
     public void openWin(int num)
     {
         Application.LoadLevel(num);
+    }
+
+    public void visibleOn()
+    {
+        if(winProcObj!=null)
+            winProcObj.GetComponent<Image>().enabled = true;
     }
 }

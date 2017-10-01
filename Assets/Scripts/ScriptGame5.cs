@@ -27,7 +27,7 @@ public class ScriptGame5 : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        question.GetComponent<Image>().sprite = ScriptGame5.spriteQuestion;
     }
 
     // Update is called once per frame

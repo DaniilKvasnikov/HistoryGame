@@ -6,6 +6,8 @@ using UnityEngine.UI;
 
 public class ScriptGame2Old : MonoBehaviour
 {
+    public double time;
+    private bool over;
     public Image ramkaImg;
     public static int numGame;
     public int radius;
@@ -35,6 +37,8 @@ public class ScriptGame2Old : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        over = false;
+        if (time < 1) time = 1;
         ramkaImg.enabled = (ScriptsScene.loadNumGame - 1 == 0);
         //Debug.Log(spriteFone.Length);
         //Debug.Log(ScriptsScene.loadNumGame - 1);
@@ -93,56 +97,73 @@ public class ScriptGame2Old : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (timer > 0)
+        if (over)
         {
-            timer -= Time.deltaTime;
+            if (time < 0)
+            {
+                Debug.Log("Out" + numGame);
+                ScriptLvl.buttonState[ScriptsScene.loadNumGame - 1, numGame] = true;
+                ScriptsScene.good[ScriptsScene.loadNumGame - 1]++;
+                Application.LoadLevel(12);
+            }
+            else
+            {
+                time -= Time.deltaTime;
+            }
         }
         else
         {
-            Application.LoadLevel(11);
-        }
-        outTimer.text = ((int)(timer)).ToString();
-
-        if (Input.GetMouseButtonDown(0) && Input.touchCount < 1)
-        {
-            foreach (GameObject obj2 in blocks)
+            if (timer > 0)
             {
-                if(obj2.gameObject.GetComponent<BoxCollider2D>()!=null)
-                    if (obj2.gameObject.GetComponent<BoxCollider2D>().OverlapPoint(Input.mousePosition))
-                    {
-                        active = obj2;
-                        break;
-                    }
+                timer -= Time.deltaTime;
             }
-        }
-        if (Input.GetAxis("Fire1") != 0 && Input.touchCount < 1
-        && active != null)
-        {
-            if (active.gameObject.GetComponent<Rigidbody2D>() != null)
-                active.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2((Input.mousePosition.x - active.gameObject.transform.position.x)
-                    , (Input.mousePosition.y - active.gameObject.transform.position.y));
-        }
-        
-        for (int num = 0; num < answerObj.Length; num++)
-        {
-            foreach (GameObject obj2 in blocks)
+            else
             {
-                if (obj2.gameObject.GetComponent<ScriptBlock>().znach.ToString() == answerObj[num].name && !answer[num])
-                {
-                    float len =
-                        Mathf.Sqrt(
-                            Mathf.Pow(answerObj[num].transform.position.x - obj2.transform.position.x, 2)
-                            + Mathf.Pow(answerObj[num].transform.position.y - obj2.transform.position.y, 2));
+                Application.LoadLevel(11);
+            }
+            outTimer.text = ((int)(timer)).ToString();
 
-                    if (len < radius)
+            if (Input.GetMouseButtonDown(0) && Input.touchCount < 1)
+            {
+                foreach (GameObject obj2 in blocks)
+                {
+                    if (obj2.gameObject.GetComponent<BoxCollider2D>() != null)
+                        if (obj2.gameObject.GetComponent<BoxCollider2D>().OverlapPoint(Input.mousePosition))
+                        {
+                            active = obj2;
+                            break;
+                        }
+                }
+            }
+            if (Input.GetAxis("Fire1") != 0 && Input.touchCount < 1
+            && active != null)
+            {
+                if (active.gameObject.GetComponent<Rigidbody2D>() != null)
+                    active.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2((Input.mousePosition.x - active.gameObject.transform.position.x)
+                        , (Input.mousePosition.y - active.gameObject.transform.position.y));
+            }
+
+            for (int num = 0; num < answerObj.Length; num++)
+            {
+                foreach (GameObject obj2 in blocks)
+                {
+                    if (obj2.gameObject.GetComponent<ScriptBlock>().znach.ToString() == answerObj[num].name && !answer[num])
                     {
-                        obj2.transform.position
-                            = new Vector3(answerObj[num].transform.position.x, answerObj[num].transform.position.y, answerObj[num].transform.position.z);
-                        obj2.transform.eulerAngles = new Vector3(0, 0, 0);
-                        obj2.transform.SetAsFirstSibling();
-                        Destroy(obj2.gameObject.GetComponent<Rigidbody2D>());
-                        Destroy(obj2.gameObject.GetComponent<BoxCollider2D>());
-                        answer[num] = true;
+                        float len =
+                            Mathf.Sqrt(
+                                Mathf.Pow(answerObj[num].transform.position.x - obj2.transform.position.x, 2)
+                                + Mathf.Pow(answerObj[num].transform.position.y - obj2.transform.position.y, 2));
+
+                        if (len < radius)
+                        {
+                            obj2.transform.position
+                                = new Vector3(answerObj[num].transform.position.x, answerObj[num].transform.position.y, answerObj[num].transform.position.z);
+                            obj2.transform.eulerAngles = new Vector3(0, 0, 0);
+                            obj2.transform.SetAsFirstSibling();
+                            Destroy(obj2.gameObject.GetComponent<Rigidbody2D>());
+                            Destroy(obj2.gameObject.GetComponent<BoxCollider2D>());
+                            answer[num] = true;
+                        }
                     }
                 }
             }
@@ -159,10 +180,7 @@ public class ScriptGame2Old : MonoBehaviour
         }
         if (newAnswer)
         {
-            Debug.Log("Out"+ numGame);
-            ScriptLvl.buttonState[ScriptsScene.loadNumGame-1,numGame] = true;
-            ScriptsScene.good[ScriptsScene.loadNumGame - 1]++;
-            Application.LoadLevel(12);
+            over = true;
         }
     }
 }
