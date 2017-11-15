@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SetScenes.cs">
@@ -5,6 +6,14 @@
       <File FileName="Assets\Scripts\Scenes.cs" Line="7" Column="27" />
       <File FileName="Assets\Old\Scripts\ScriptGame2Old.cs" Line="36" Column="27" />
       <File FileName="Assets\Scripts\SetScenes.cs" Line="11" Column="20" />
+=======
+﻿<Properties StartupItem="HistoryGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ramka.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ScriptsScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ramka.cs" Line="1" Column="1" />
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">

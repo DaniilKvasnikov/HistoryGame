@@ -4,7 +4,10 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ScriptHistory : MonoBehaviour {
+<<<<<<< HEAD
     //Скрипт окна историческая справка
+=======
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public static int version;
     public int valueMax;
     private const int valueMin = 0;
@@ -15,7 +18,10 @@ public class ScriptHistory : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
+<<<<<<< HEAD
         Debug.Log(Music.music.name);
+=======
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
         numNow = 0;
         reloadImage();
         switch (version)

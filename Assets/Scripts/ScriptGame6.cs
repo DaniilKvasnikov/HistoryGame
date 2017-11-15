@@ -3,9 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+<<<<<<< HEAD
 public class ScriptGame6 : MonoBehaviour
 {
     //Основной скрипт игры 6(сцены игра 6) соотнеси(muve) и выбери
+=======
+public class ScriptGame6 : MonoBehaviour {
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public static bool muve;
     public static int numGame;
     public static int answer;

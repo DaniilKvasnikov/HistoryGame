@@ -123,6 +123,17 @@
     <Compile Include="Assets\Scripts\ScriptScene4.cs" />
     <Compile Include="Assets\Scripts\ScriptScene5.cs" />
     <Compile Include="Assets\Scripts\ScriptsScene.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="Assets\Scripts\ScriptsScene4.cs" />
+    <Compile Include="Assets\Scripts\ramka.cs" />
+    <Compile Include="Assets\Scripts\ramkaBig.cs" />
+    <Compile Include="Assets\Scripts\ramkaButton.cs" />
+    <Compile Include="Assets\Scripts\ramkaFone.cs" />
+    <Compile Include="Assets\Scripts\ramkaFoneWinLose.cs" />
+    <Compile Include="Assets\Scripts\ramkaPodskazka.cs" />
+    <Compile Include="Assets\Scripts\ramkaSmoll.cs" />
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\материалы для игры\Свое\Глава 1\Ответы.txt" />

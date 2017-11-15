@@ -4,8 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ScriptGame9 : MonoBehaviour
+<<<<<<< HEAD
 {
     //Основной скрипт игры 9(сцены игра 9) выбери из вариантов
+=======
+{    
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public GameObject question;
     public GameObject down;
     public GameObject answer1;

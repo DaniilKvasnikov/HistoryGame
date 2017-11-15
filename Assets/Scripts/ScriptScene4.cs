@@ -17,8 +17,12 @@ public class ScriptScene4 : MonoBehaviour
     {
         if (winProcObj != null)
             winProcObj.GetComponent<Image>().enabled = false;
+<<<<<<< HEAD
         if (ScriptsScene.good == null) 
 			ScriptsScene.good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
+=======
+        if (ScriptsScene.good[ScriptsScene.loadNumGame - 1] == null) ScriptsScene.good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
+>>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
         //Debug.Log(ScriptsScene.good[ScriptsScene.loadNumGame - 1]);
         if (winProcObj != null)//если не создан
             winProcObj.GetComponent<Image>().sprite = winProc[ScriptsScene.good[ScriptsScene.loadNumGame - 1]];
