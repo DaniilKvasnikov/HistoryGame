@@ -52,7 +52,7 @@ public class ScriptGame3 : MonoBehaviour
         answer4.GetComponent<Image>().sprite = ScriptGame3.spriteAnswer4;
         for (int i = 0; i < Flags.Length; i++)
         {
-            Flags[i] = FlagsS[i];
+            Flags[i] = ScriptGame3.FlagsS[i];
             num[i] = i;
         }
         for (int i = 0; i < 20; i++)

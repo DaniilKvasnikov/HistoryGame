@@ -49,16 +49,16 @@ public class ScriptScene2 : MonoBehaviour
                 loadGame3(3);
                 break;
             case 6:
-                loadGame3(4);
+                loadGame9(4);
                 break;
             case 7:
-                loadGame3(5);
+                loadGame4(5);
                 break;
             case 8:
-                loadGame4(6);
+                loadGame9(6);
                 break;
             case 9:
-                loadGame3(7);
+                loadGame4(7);
                 break;
             case 10:
                 loadGame4(8);
@@ -69,6 +69,23 @@ public class ScriptScene2 : MonoBehaviour
         }
     }
 
+    public void loadGame9(int numer)
+    {
+        ScriptGame3.spriteAnswer1 = answer1[numer];
+        ScriptGame3.spriteAnswer2 = answer2[numer];
+        ScriptGame3.spriteAnswer3 = answer3[numer];
+        ScriptGame3.spriteAnswer4 = answer4[numer];
+        ScriptGame3.spriteDuwn = main[numer];
+        ScriptGame3.spriteQuestion = question[numer];
+        ScriptGame3.FlagsS = new Sprite[4];
+        ScriptGame3.FlagsS[0] = flag1[numer];
+        ScriptGame3.FlagsS[1] = flag2[numer];
+        ScriptGame3.FlagsS[2] = flag3[numer];
+        ScriptGame3.FlagsS[3] = flag4[numer];
+        ScriptGame3.answer = answer[numer];
+        ScriptGame3.numGame = numer;
+        Application.LoadLevel(26);
+    }
     public void loadGame5(int numer)
     {
         ScriptGame5.answer = answer[numer];
@@ -139,6 +156,7 @@ public class ScriptScene2 : MonoBehaviour
     }
     public void visibleOn()
     {
-        winProcObj.GetComponent<Image>().enabled = true;
+        if (winProcObj != null)
+            winProcObj.GetComponent<Image>().enabled = true;
     }
 }

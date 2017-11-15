@@ -42,32 +42,61 @@ public class ScriptScene3 : MonoBehaviour {
                 loadGame1(1);//
                 break;
             case 4:
-                loadGame3(2);//
+                loadGame9(2);//
                 break;
             case 5:
-                loadGame4(3);/**/
+                loadGame6(3, false);/**/
                 break;
             case 6:
                 loadGame4(4);
                 break;
             case 7:
-                loadGame4(5);
+                loadGame8(5);
                 break;
             case 8:
                 loadGame4(6);/**/
                 break;
             case 9:
-                loadGame6(7);
+                loadGame4(7);
                 break;
             case 10:
                 loadGame7(8);
                 break;
             case 11:
-                loadGame3(9);
+                loadGame6(9, true);
                 break;
         }
     }
 
+    public void loadGame9(int numer)
+    {
+        ScriptGame3.spriteAnswer1 = answer1[numer];
+        ScriptGame3.spriteAnswer2 = answer2[numer];
+        ScriptGame3.spriteAnswer3 = answer3[numer];
+        ScriptGame3.spriteAnswer4 = answer4[numer];
+        ScriptGame3.spriteDuwn = main[numer];
+        ScriptGame3.spriteQuestion = question[numer];
+        ScriptGame3.FlagsS = new Sprite[4];
+        ScriptGame3.FlagsS[0] = flag1[numer];
+        ScriptGame3.FlagsS[1] = flag2[numer];
+        ScriptGame3.FlagsS[2] = flag3[numer];
+        ScriptGame3.FlagsS[3] = flag4[numer];
+        ScriptGame3.answer = answer[numer];
+        ScriptGame3.numGame = numer;
+        Application.LoadLevel(26);
+    }
+    //загрузка по второй игре
+    public void loadGame8(int numer)
+    {
+        ScriptGame1.numGame = numer;
+        ScriptGame1.answer = answer[numer];
+        ScriptGame1.spriteQuestion = question[numer];
+        ScriptGame1.spriteMain = main[numer];
+        ScriptGame1.spriteAnswer1 = answer1[numer];
+        ScriptGame1.spriteAnswer2 = answer2[numer];
+        ScriptGame1.spriteAnswer3 = answer3[numer];
+        Application.LoadLevel(27);
+    }
     public void loadGame7(int numer)
     {
         ScriptGame1.numGame = numer;
@@ -79,8 +108,9 @@ public class ScriptScene3 : MonoBehaviour {
         ScriptGame1.spriteAnswer3 = answer3[numer];
         Application.LoadLevel(24);
     }
-    public void loadGame6(int numer)
+    public void loadGame6(int numer, bool muve)
     {
+        ScriptGame6.muve = muve;
         ScriptGame6.spriteAnswer1 = answer1[numer];
         ScriptGame6.spriteAnswer2 = answer2[numer];
         ScriptGame6.spriteAnswer3 = answer3[numer];

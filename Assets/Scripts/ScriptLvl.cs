@@ -20,7 +20,7 @@ public class ScriptLvl : MonoBehaviour {
             {
                 if (buttons[i] != null)
                 {
-                    Debug.Log("Destroy");
+                    //Debug.Log("Destroy");
                     Destroy(buttons[i]);//если решено
                 }
             }

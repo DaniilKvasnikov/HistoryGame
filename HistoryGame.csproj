@@ -96,6 +96,7 @@
     <Compile Include="Assets\Old\Scripts\ScriptLvlOld.cs" />
     <Compile Include="Assets\Old\Scripts\ScriptsSceneOld.cs" />
     <Compile Include="Assets\Scripts\ButtonSetNativeSize.cs" />
+    <Compile Include="Assets\Scripts\DopWindow.cs" />
     <Compile Include="Assets\Scripts\FirstSceneLoad.cs" />
     <Compile Include="Assets\Scripts\GoodBed.cs" />
     <Compile Include="Assets\Scripts\Script15.cs" />
@@ -112,6 +113,8 @@
     <Compile Include="Assets\Scripts\ScriptGame6.cs" />
     <Compile Include="Assets\Scripts\ScriptGame7.cs" />
     <Compile Include="Assets\Scripts\ScriptGame8.cs" />
+    <Compile Include="Assets\Scripts\ScriptGame9.cs" />
+    <Compile Include="Assets\Scripts\ScriptHistory.cs" />
     <Compile Include="Assets\Scripts\ScriptLvl.cs" />
     <Compile Include="Assets\Scripts\ScriptScene2.cs" />
     <Compile Include="Assets\Scripts\ScriptScene3.cs" />
@@ -120,10 +123,16 @@
     <Compile Include="Assets\Scripts\ScriptsScene.cs" />
     <Compile Include="Assets\Scripts\ScriptsScene4.cs" />
     <Compile Include="Assets\Scripts\ramka.cs" />
+    <Compile Include="Assets\Scripts\ramkaBig.cs" />
+    <Compile Include="Assets\Scripts\ramkaButton.cs" />
+    <Compile Include="Assets\Scripts\ramkaFone.cs" />
+    <Compile Include="Assets\Scripts\ramkaFoneWinLose.cs" />
+    <Compile Include="Assets\Scripts\ramkaPodskazka.cs" />
+    <Compile Include="Assets\Scripts\ramkaSmoll.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\материалы для игры\09.09.2017\01\правильный ответ Мариинская.txt" />
-    <None Include="Assets\материалы для игры\09.09.2017\02\правильный ответ Петр 1.txt" />
+    <None Include="Assets\материалы для игры\Свое\Глава 1\Ответы.txt" />
+    <None Include="Assets\материалы для игры\Свое\Глава 2\Ответы.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

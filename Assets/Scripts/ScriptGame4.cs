@@ -20,6 +20,7 @@ public class ScriptGame4 : MonoBehaviour
 
     private Sprite[] Flags = new Sprite[4];
     public Image[] blockFlag;
+    public DopWindow dopWindow;
 
     void OnApplicationPause()
     {
@@ -56,6 +57,10 @@ public class ScriptGame4 : MonoBehaviour
             {
                 Application.LoadLevel(11);
             }
+        }
+        else
+        {
+            dopWindow.active = true;
         }
     }
 }

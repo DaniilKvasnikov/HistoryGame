@@ -8,6 +8,7 @@ public class ScriptGame1 : MonoBehaviour {
     public static int answer;//верный ответ
     public GameObject mainImage, answer1, answer2, answer3, question;//объекты на экране
     public static Sprite spriteMain, spriteAnswer1, spriteAnswer2, spriteAnswer3, spriteQuestion;//спрайты для вывода
+    public DopWindow dopWindow;
 
     void OnApplicationPause()
     {
@@ -40,7 +41,7 @@ public class ScriptGame1 : MonoBehaviour {
         }
         else
         {
-            
+            dopWindow.active = true;
         }
     }
 	

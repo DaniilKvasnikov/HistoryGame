@@ -37,34 +37,34 @@ public class ScriptScene5 : MonoBehaviour {
         switch (num)
         {
             case 2:
-                loadGame1(0);//
+                loadGame6(0, true);//
                 break;
             case 3:
-                loadGame1(1);//
+                loadGame7(1);//
                 break;
             case 4:
-                loadGame8(2);
+                loadGame7(2);
                 break;
             case 5:
-                loadGame8(3);
+                loadGame7(3);
                 break;
             case 6:
-                loadGame8(4);
+                loadGame7(4);
                 break;
             case 7:
-                loadGame9(5);
+                loadGame6(5, true);
                 break;
             case 8:
-                loadGame10(6);
+                loadGame7(6);
                 break;
             case 9:
-                loadGame10(7);
+                loadGame7(7);
                 break;
             case 10:
-                loadGame10(8);
+                loadGame7(8);
                 break;
             case 11:
-                loadGame11(9);
+                loadGame6(9, true);
                 break;
         }
     }
@@ -116,9 +116,9 @@ public class ScriptScene5 : MonoBehaviour {
         ScriptGame7.numGame = numer;
         Application.LoadLevel(19);
     }
-    public void loadGame6(int numer)
+    public void loadGame6(int numer, bool muve)
     {
-        Debug.Log("loadGame6 numer=" + numer);
+        ScriptGame6.muve = muve;
         ScriptGame6.spriteAnswer1 = answer1[numer];
         ScriptGame6.spriteAnswer2 = answer2[numer];
         ScriptGame6.spriteAnswer3 = answer3[numer];
@@ -201,6 +201,7 @@ public class ScriptScene5 : MonoBehaviour {
     }
     public void visibleOn()
     {
-        winProcObj.GetComponent<Image>().enabled = true;
+        if (winProcObj != null)
+            winProcObj.GetComponent<Image>().enabled = true;
     }
 }

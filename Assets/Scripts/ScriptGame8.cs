@@ -9,6 +9,7 @@ public class ScriptGame8 : MonoBehaviour
     static public int answer;
     static public Sprite questionSprite;
     public Image questionImg;
+    public DopWindow dopWindow;
 
     // Use this for initialization
     void Start ()
@@ -31,6 +32,10 @@ public class ScriptGame8 : MonoBehaviour
             {
                 Application.LoadLevel(11);
             }
+        }
+        else
+        {
+            dopWindow.active = true;
         }
     }
 	

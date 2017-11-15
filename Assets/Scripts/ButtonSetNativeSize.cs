@@ -11,7 +11,7 @@ public class ButtonSetNativeSize : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
-        Debug.Log("SetNativeSize");
+        //Debug.Log("SetNativeSize");
         if (gameObject != null)
             if (gameObject.GetComponent<Image>() != null)
                 gameObject.GetComponent<Image>().SetNativeSize();
