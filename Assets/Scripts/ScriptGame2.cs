@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScriptGame2 : MonoBehaviour
 {
+    //Основной скрипт игры 2(сцены игра 2) кубики
     public static int numGame;
     public int radius;
     public static string strIn;

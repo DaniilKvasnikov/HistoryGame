@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScriptGame5 : MonoBehaviour
 {
+    //Основной скрипт игры 5(сцены игра 5) выбери из вариантов
     public static int numGame;
     public static int answer;
     public static Sprite[] FlagsS;

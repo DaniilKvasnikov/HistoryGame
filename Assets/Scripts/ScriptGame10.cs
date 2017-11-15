@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScriptGame10 : MonoBehaviour {
+public class ScriptGame10 : MonoBehaviour
+{
+    //Основной скрипт игры 10(сцены игра 10) пятнашки
 
     public static int numGame;
     static public int answer;
@@ -11,6 +13,7 @@ public class ScriptGame10 : MonoBehaviour {
     static public Sprite question1, question2, question3, question4;
     public Image questionImg;
     public Image questionImg1, questionImg2, questionImg3, questionImg4;
+    public DopWindow dopWindow;
 
     // Use this for initialization
     void Start()
@@ -36,6 +39,10 @@ public class ScriptGame10 : MonoBehaviour {
             {
                 Application.LoadLevel(11);
             }
+        }
+        else
+        {
+            dopWindow.active = true;
         }
     }
 

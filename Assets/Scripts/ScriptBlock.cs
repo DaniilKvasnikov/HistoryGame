@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class ScriptBlock : MonoBehaviour {
+    //Скрипт для кубиков
     public int znach;//число на кубе
     public Text textOut;//панель вывода
     public Sprite[] kybs;

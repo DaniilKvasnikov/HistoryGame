@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FirstSceneLoad : MonoBehaviour {
 
-	// Use this for initialization
+	// Скрипт для загрузки глав с главного окна
 	void Start () {
 		
 	}
@@ -17,8 +17,6 @@ public class FirstSceneLoad : MonoBehaviour {
     public void loadGame(int num)
     {
         ScriptsScene.loadNumGame = num;
-        //Debug.Log("loadNumGame=" + ScriptsScene.loadNumGame);
-        //Debug.Log(ScriptsScene.loadNumGame-1);
         Application.LoadLevel(num);
     }
     //завершение игры

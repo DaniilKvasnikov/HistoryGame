@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ScriptBlock1 : MonoBehaviour {
+
     public Vector2 position;//Позиция прикрепленного объекта
     public GameObject main;//Прозрачный объект
 	// Use this for initialization

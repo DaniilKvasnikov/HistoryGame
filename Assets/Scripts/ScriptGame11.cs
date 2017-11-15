@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScriptGame11 : MonoBehaviour
 {
+    //Основной скрипт игры 11(сцены игра 11) соотнеси и выбери
 
     public static int numGame;
     public static int answer;

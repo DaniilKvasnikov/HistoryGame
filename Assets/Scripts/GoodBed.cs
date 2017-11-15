@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class GoodBed : MonoBehaviour {
+    //Загрузка окна завешения задания с фоном соответствующего открытой главе
     public static int numGame;
     public Sprite[] sprites = new Sprite[5];
     public Image image;

@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ScriptGame4 : MonoBehaviour
 {
+    //Основной скрипт игры 4(сцены игра 4) пятнашки
     public static int numGame;
     public static int answer;
     public static Sprite[] FlagsS;
@@ -20,6 +21,7 @@ public class ScriptGame4 : MonoBehaviour
 
     private Sprite[] Flags = new Sprite[4];
     public Image[] blockFlag;
+    public DopWindow dopWindow;
 
     void OnApplicationPause()
     {
@@ -56,6 +58,10 @@ public class ScriptGame4 : MonoBehaviour
             {
                 Application.LoadLevel(11);
             }
+        }
+        else
+        {
+            dopWindow.active = true;
         }
     }
 }

@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScriptGame7 : MonoBehaviour {
+public class ScriptGame7 : MonoBehaviour
+{
+    //Основной скрипт игры 7(сцены игра 7) пятнашки
 
     public static int numGame;
     public static int answer;
@@ -20,6 +22,7 @@ public class ScriptGame7 : MonoBehaviour {
 
     private Sprite[] Flags = new Sprite[4];
     public Image[] blockFlag;
+    public DopWindow dopWindow;
 
     void OnApplicationPause()
     {
@@ -58,6 +61,10 @@ public class ScriptGame7 : MonoBehaviour {
             {
                 Application.LoadLevel(11);
             }
+        }
+        else
+        {
+            dopWindow.active = true;
         }
     }
 }

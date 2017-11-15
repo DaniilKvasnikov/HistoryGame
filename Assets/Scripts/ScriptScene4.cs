@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScriptScene4 : MonoBehaviour {
+public class ScriptScene4 : MonoBehaviour
+{
+    //Скрипт загрузки заданий в главе 4
 
     public int num;
     public static int loadNumGame;
@@ -15,8 +17,9 @@ public class ScriptScene4 : MonoBehaviour {
     {
         if (winProcObj != null)
             winProcObj.GetComponent<Image>().enabled = false;
-        if (ScriptsScene.good[ScriptsScene.loadNumGame - 1] == null) ScriptsScene.good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
-        Debug.Log(ScriptsScene.good[ScriptsScene.loadNumGame - 1]);
+        if (ScriptsScene.good == null) 
+			ScriptsScene.good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
+        //Debug.Log(ScriptsScene.good[ScriptsScene.loadNumGame - 1]);
         if (winProcObj != null)//если не создан
             winProcObj.GetComponent<Image>().sprite = winProc[ScriptsScene.good[ScriptsScene.loadNumGame - 1]];
         if ((ScriptsScene.good[ScriptsScene.loadNumGame - 1]) == 10)
@@ -32,30 +35,27 @@ public class ScriptScene4 : MonoBehaviour {
 
     public void loadGame(int num)
     {
-        //выбор задания
-        int numer;
-        //Debug.Log(num);
         switch (num)
         {
             case 2:
-                loadGame1(0);//
-                break;
-            case 4:
-                loadGame1(1);//
-                break;
-            case 6:
-                loadGame1(2);//
-                break;
-            case 8:
-                loadGame1(3);//
+                loadGame7(0);//
                 break;
             case 3:
-                loadGame7(4);
+                loadGame1(1);//
+                break;
+            case 4:
+                loadGame1(2);//
                 break;
             case 5:
-                loadGame7(5);
+                loadGame1(3);//
+                break;
+            case 6:
+                loadGame7(4);
                 break;
             case 7:
+                loadGame7(5);
+                break;
+            case 8:
                 loadGame7(6);
                 break;
             case 9:

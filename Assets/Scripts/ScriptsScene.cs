@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScriptsScene : MonoBehaviour {
+public class ScriptsScene : MonoBehaviour
+{
+    //Скрипт загрузки заданий в главе 1
     public int num;
     public static int loadNumGame;
     public static int []good = new int[5];//всего решено
@@ -13,12 +15,14 @@ public class ScriptsScene : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
+		Music.music.Stop ();
         if (winProcObj != null)
             winProcObj.GetComponent<Image>().enabled = false;
-        if (good[ScriptsScene.loadNumGame - 1] == null) good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
+        if (good == null) 
+			good[ScriptsScene.loadNumGame - 1] = 0;//если не запускали
         if (winProcObj != null)//если не создан
             winProcObj.GetComponent<Image>().sprite = winProc[good[ScriptsScene.loadNumGame - 1]];
-        Debug.Log((good[ScriptsScene.loadNumGame - 1]));
+        //Debug.Log((good[ScriptsScene.loadNumGame - 1]));
         if ((good[ScriptsScene.loadNumGame - 1]) == 10)
         {
             visibleOn();
@@ -31,8 +35,6 @@ public class ScriptsScene : MonoBehaviour {
 
     public void loadGame(int num)
     {
-        //выбор задания
-        int numer;
         switch (num)
         {
             case 2:
@@ -94,6 +96,11 @@ public class ScriptsScene : MonoBehaviour {
         //Debug.Log(loadNumGame+5);
         openWin(loadNumGame+5);
     }
+    public void backFirstToMenu()
+    {
+        //Debug.Log(loadNumGame+5);
+        openWin(loadNumGame);
+    }
     //загрузка экрана игры
     public void openWin(int num)
     {
@@ -104,5 +111,11 @@ public class ScriptsScene : MonoBehaviour {
     {
         if(winProcObj!=null)
             winProcObj.GetComponent<Image>().enabled = true;
+    }
+
+    public void historyOpen(int num)
+    {
+        ScriptHistory.version = num;
+        Application.LoadLevel(25);
     }
 }

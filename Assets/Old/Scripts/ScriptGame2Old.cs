@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class ScriptGame2Old : MonoBehaviour
 {
@@ -32,7 +33,7 @@ public class ScriptGame2Old : MonoBehaviour
 
     void OnApplicationPause()
     {
-        Application.LoadLevel(11);
+		SceneManager.LoadScene (Scenes.Bed);
     }
     // Use this for initialization
     void Start()
@@ -104,7 +105,7 @@ public class ScriptGame2Old : MonoBehaviour
                 Debug.Log("Out" + numGame);
                 ScriptLvl.buttonState[ScriptsScene.loadNumGame - 1, numGame] = true;
                 ScriptsScene.good[ScriptsScene.loadNumGame - 1]++;
-                Application.LoadLevel(12);
+				SceneManager.LoadScene (Scenes.Good);
             }
             else
             {

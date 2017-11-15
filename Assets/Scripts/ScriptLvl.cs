@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ScriptLvl : MonoBehaviour {
+    //Скрип для привязки изображений к заданиям
     public int numer;
     private const int kol = 5;
     public const int razmer = 10;//всего вопросов
@@ -20,7 +21,7 @@ public class ScriptLvl : MonoBehaviour {
             {
                 if (buttons[i] != null)
                 {
-                    Debug.Log("Destroy");
+                    //Debug.Log("Destroy");
                     Destroy(buttons[i]);//если решено
                 }
             }

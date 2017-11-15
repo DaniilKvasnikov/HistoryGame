@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ScriptDataBlock : MonoBehaviour {
+    //Скрипт для задания с выбором даты до дня(не используется)
     int []num = new int[8];
     public Text[] text;
     public Image question;

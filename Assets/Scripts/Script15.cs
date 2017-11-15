@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Script15 : MonoBehaviour {
+    //Скрипт для игры пятнашки
     public static bool flagWin;
     public Vector2 nullPos;//позиция пустого
     public GameObject nullObj;//пустой

@@ -1,9 +1,18 @@
-﻿<Properties StartupItem="HistoryGame.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScriptsScene.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SetScenes.cs">
     <Files>
-      <File FileName="Assets\Scripts\ScriptsScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scenes.cs" Line="7" Column="27" />
+      <File FileName="Assets\Old\Scripts\ScriptGame2Old.cs" Line="36" Column="27" />
+      <File FileName="Assets\Scripts\SetScenes.cs" Line="11" Column="20" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="HistoryGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
