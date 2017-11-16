@@ -33,7 +33,7 @@ public class ScriptGame2Old : MonoBehaviour
 
     void OnApplicationPause()
     {
-		SceneManager.LoadScene (Scenes.Bed);
+        Application.LoadLevel(11);
     }
     // Use this for initialization
     void Start()
@@ -105,7 +105,7 @@ public class ScriptGame2Old : MonoBehaviour
                 Debug.Log("Out" + numGame);
                 ScriptLvl.buttonState[ScriptsScene.loadNumGame - 1, numGame] = true;
                 ScriptsScene.good[ScriptsScene.loadNumGame - 1]++;
-				SceneManager.LoadScene (Scenes.Good);
+                Application.LoadLevel(12);
             }
             else
             {

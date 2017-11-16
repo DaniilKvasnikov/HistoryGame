@@ -5,10 +5,7 @@ using UnityEngine.UI;
 
 public class ramka : MonoBehaviour
 {
-<<<<<<< HEAD
     //Записывает спрайты в статичные скрипты для дальнейшего использования
-=======
->>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public Sprite[] spritesBigN;
     public Sprite[] spritesFoneN;
     public Sprite[] spritesButtonN;

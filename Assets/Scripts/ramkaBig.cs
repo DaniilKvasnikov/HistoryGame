@@ -4,10 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class ramkaBig : MonoBehaviour {
-<<<<<<< HEAD
     //Задание спрайта большой рамки для объекта материнского объекта
-=======
->>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public static Sprite[] sprites;
 	// Use this for initialization
 	void Start () {

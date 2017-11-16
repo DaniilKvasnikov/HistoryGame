@@ -6,7 +6,6 @@ public class FirstSceneLoad : MonoBehaviour {
 
 	// Скрипт для загрузки глав с главного окна
 	void Start () {
-		
 	}
 	
 	// Update is called once per frame

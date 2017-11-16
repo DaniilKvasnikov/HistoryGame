@@ -3,13 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-<<<<<<< HEAD
 public class ramkaButton : MonoBehaviour
 {
     //Задание спрайта кнопки для объекта материнского объекта
-=======
-public class ramkaButton : MonoBehaviour {
->>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
     public static Sprite[] sprites;
 	// Use this for initialization
 	void Start () {

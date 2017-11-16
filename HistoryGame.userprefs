@@ -1,27 +1,9 @@
-<<<<<<< HEAD
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SetScenes.cs">
-    <Files>
-      <File FileName="Assets\Scripts\Scenes.cs" Line="7" Column="27" />
-      <File FileName="Assets\Old\Scripts\ScriptGame2Old.cs" Line="36" Column="27" />
-      <File FileName="Assets\Scripts\SetScenes.cs" Line="11" Column="20" />
-=======
 ﻿<Properties StartupItem="HistoryGame.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ramka.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DopWindow.cs">
     <Files>
-      <File FileName="Assets\Scripts\ScriptsScene.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ramka.cs" Line="1" Column="1" />
->>>>>>> 652fda33282a75c8a7fc7ee4650855eb2395e8f3
+      <File FileName="Assets\Scripts\DopWindow.cs" Line="7" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State name="__root__">
-          <Node name="HistoryGame" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -15,7 +15,6 @@ public class ScriptsScene : MonoBehaviour
 	// Use this for initialization
 	void Start ()
     {
-		Music.music.Stop ();
         if (winProcObj != null)
             winProcObj.GetComponent<Image>().enabled = false;
         if (good == null) 
