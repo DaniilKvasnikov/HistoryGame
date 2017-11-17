@@ -39,6 +39,10 @@ public class Music : MonoBehaviour {
                     audioSourceMain.volume = time / deltaTime;
                     time -= Time.deltaTime;
                 }
+                if (!audioSourceDop.isPlaying)
+                {
+                    state = State.PLAY;
+                }
                 break;
             case State.PLAY:
                 if (time <= deltaTime)
@@ -102,7 +106,7 @@ public class Music : MonoBehaviour {
 
     public void PlayDop(int num)
     {
-        if (num >= 0 && num < clips.Length)
+        if (num >= 0 && num < clips.Length && audioSourceDop != null)
         {
             audioSourceDop.Stop();
             audioSourceDop.clip = clips[num];
@@ -112,7 +116,10 @@ public class Music : MonoBehaviour {
 
     public void StopDop()
     {
-        audioSourceDop.Stop();
-        audioSourceDop.time = 0;
+        if (audioSourceDop != null)
+        {
+            audioSourceDop.Stop();
+            audioSourceDop.time = 0;
+        }
     }
 }

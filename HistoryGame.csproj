@@ -91,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Old\Scripts\ScriptGame2Old.cs" />
+    <Compile Include="Assets\Scripts\ButtonClick.cs" />
     <Compile Include="Assets\Scripts\ButtonSetNativeSize.cs" />
     <Compile Include="Assets\Scripts\DopWindow.cs" />
     <Compile Include="Assets\Scripts\FirstSceneLoad.cs" />
