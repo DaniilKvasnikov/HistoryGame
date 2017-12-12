@@ -26,6 +26,14 @@ public class ButtonClick : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
+        if (Music.music.audioSourceMain.mute)
+        {
+            img.sprite = sprites[0];
+        }
+        else
+        {
+            img.sprite = sprites[1];
+        }
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             //Debug.Log(Application.loadedLevel);
@@ -33,6 +41,39 @@ public class ButtonClick : MonoBehaviour {
             {
                 case 0:
                     Application.Quit();
+                    break;
+                case 1:
+                    Application.LoadLevel(0);
+                    break;
+                case 2:
+                    Application.LoadLevel(0);
+                    break;
+                case 3:
+                    Application.LoadLevel(0);
+                    break;
+                case 4:
+                    Application.LoadLevel(0);
+                    break;
+                case 5:
+                    Application.LoadLevel(0);
+                    break;
+                case 6:
+                    Application.LoadLevel(1);
+                    break;
+                case 7:
+                    Application.LoadLevel(2);
+                    break;
+                case 8:
+                    Application.LoadLevel(3);
+                    break;
+                case 9:
+                    Application.LoadLevel(4);
+                    break;
+                case 10:
+                    Application.LoadLevel(5);
+                    break;
+                case 25:
+                    Application.LoadLevel(ScriptsScene.loadNumGame);
                     break;
             }
         }

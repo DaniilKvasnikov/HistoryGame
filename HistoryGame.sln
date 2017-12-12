@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HistoryGame", "HistoryGame.csproj", "{900DA3B2-A713-93B5-34C3-D46C02301AB5}"
 EndProject
 Global
