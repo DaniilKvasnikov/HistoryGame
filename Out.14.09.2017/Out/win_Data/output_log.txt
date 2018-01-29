@@ -1,0 +1,3659 @@
+Mono path[0] = 'C:/Games/Work/Out/win_Data/Managed'
+Mono path[1] = 'C:/Games/Work/Out/win_Data/Mono'
+Mono config path = 'C:/Games/Work/Out/win_Data/Mono/etc'
+PlayerConnection initialized from C:/Games/Work/Out/win_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55190
+Multi-casting "[IP] 192.168.1.65 [Port] 55190 [Flags] 2 [Guid] 1322189357 [EditorId] 1620533352 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-QM7KR5U) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55190]
+PlayerConnection already initialized - listening to [0.0.0.0:55190]
+Player data archive not found at `C:/Games/Work/Out/win_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8541
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Games\Work\Out\win_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Games\Work\Out\win_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Games\Work\Out\win_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Games\Work\Out\win_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Games\Work\Out\win_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Games\Work\Out\win_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.082494 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.806970 ms
+System memory in use before: 16.8 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 17.085157 ms (FindLiveObjects: 0.038061 ms CreateObjectMapping: 0.030741 ms MarkObjects: 16.948284 ms  DeleteObjects: 0.065509 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.728289 ms
+System memory in use before: 16.8 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 520.
+Total: 0.360119 ms (FindLiveObjects: 0.030009 ms CreateObjectMapping: 0.024886 ms MarkObjects: 0.270089 ms  DeleteObjects: 0.034035 ms)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760129 ms
+System memory in use before: 17.0 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 148 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.838447 ms (FindLiveObjects: 0.053798 ms CreateObjectMapping: 0.050870 ms MarkObjects: 0.408061 ms  DeleteObjects: 0.323887 ms)
+
+Image (UnityEngine.GameObject) 2
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ramka:Start() (at C:\Games\Work\Assets\Scripts\ramka.cs:11)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ramka.cs Line: 11)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+SetNativeSize
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ButtonSetNativeSize:Update() (at C:\Games\Work\Assets\Scripts\ButtonSetNativeSize.cs:14)
+ 
+(Filename: C:/Games/Work/Assets/Scripts/ButtonSetNativeSize.cs Line: 14)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.760129 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 524.
+Total: 0.470643 ms (FindLiveObjects: 0.046112 ms CreateObjectMapping: 0.040257 ms MarkObjects: 0.310346 ms  DeleteObjects: 0.072462 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.695717 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 416.
+Total: 0.567626 ms (FindLiveObjects: 0.039891 ms CreateObjectMapping: 0.033669 ms MarkObjects: 0.273383 ms  DeleteObjects: 0.219218 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.629110 ms
+System memory in use before: 16.9 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 524.
+Total: 0.442463 ms (FindLiveObjects: 0.043185 ms CreateObjectMapping: 0.033669 ms MarkObjects: 0.301929 ms  DeleteObjects: 0.062215 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3eb4 -> priority: 1 
+  Thread -> id: 88c -> priority: 1 
